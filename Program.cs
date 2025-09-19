@@ -30,9 +30,16 @@ foreach (int e in tallista)
 }
 Console.WriteLine("talens summa: " + summa); */
 
+int  = talar; //talen som du ger ut 
 int[] tal = [5];
 for (int i = 0; i < tal.Length; i++)
 {
     Console.Write("Ange tal " + (i + 1) + ": ");
-    tal[i] = int.Parse(Console.ReadLine());
+    tal[i] = int.Parse(Console.ReadLine()); //talen som hoppas kommer att läsa
 }
+talar = int.Parse(Console.ReadLine())
+
+  foreach;{
+      tal[i] = Console.Write(talar >= 0());
+}
+

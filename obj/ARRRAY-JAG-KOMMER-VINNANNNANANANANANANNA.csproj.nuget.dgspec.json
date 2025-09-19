@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adko07001\\Desktop\\Github\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA.csproj": {}
+    "C:\\Users\\voltt\\New folder\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adko07001\\Desktop\\Github\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA.csproj": {
+    "C:\\Users\\voltt\\New folder\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adko07001\\Desktop\\Github\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA.csproj",
+        "projectUniqueName": "C:\\Users\\voltt\\New folder\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA.csproj",
         "projectName": "ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA",
-        "projectPath": "C:\\Users\\adko07001\\Desktop\\Github\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA.csproj",
-        "packagesPath": "C:\\Users\\adko07001\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adko07001\\Desktop\\Github\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA\\obj\\",
+        "projectPath": "C:\\Users\\voltt\\New folder\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA.csproj",
+        "packagesPath": "C:\\Users\\voltt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\voltt\\New folder\\ARRRAY-JAG-KOMMER-VINNANNNANANANANANANNA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\adko07001\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\voltt\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
